@@ -3,5 +3,5 @@ Server for Smart House system. Works as a framework to convert input from low le
 
 
 ## Client
-[Clien](https://github.com/Smart-House-Client) for accesing the server Api, and displaying graphical interface 
+[Client](https://github.com/Przecich/Smart-House-Client) for accesing the server Api, and displaying graphical interface 
 
